@@ -13,8 +13,7 @@ Web Application Development
 (programming a calcuator to calculate the total expenses and percentage of all inputs given.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://github.com/wisematteo/lesson4_javascript.git)
 
 ### Lessons Learned in the Assignment:
 1. (Using javascript code and tags to make sure the calcuator functions properly.)
