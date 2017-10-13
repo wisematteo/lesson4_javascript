@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 13, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Matteo Wise)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(programming a calcuator to calculate the total expenses and percentage of all inputs given.)
 
 ### View Project:
 (Replace this statement with your GitHub Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Using javascript code and tags to make sure the calcuator functions properly.)
+2. (Checking to make sure the code is devoid of errors that prevents the calculator from working.)
+3. (combining java and html tags to create a fuctioning url that fuctions properly as a calculator.)
 
